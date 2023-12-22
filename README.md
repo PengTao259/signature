@@ -1,5 +1,5 @@
 # vue2-demo
-移动端前端签字demo
+移动端前端签字demo 基于vue2
 
 ## Project setup
 ```
